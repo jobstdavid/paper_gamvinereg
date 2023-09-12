@@ -1,0 +1,25 @@
+
+--------------------
+License for the data
+--------------------
+
+
+-----------------
+# Forecast data #
+-----------------
+
+Source: European Centre for Medium-Range Weather Forecasts (ECMWF), URL: https://www.ecmwf.int
+
+License: Creative Commons Attribution 4.0 International (CC BY 4.0), URL: https://creativecommons.org/licenses/by/4.0/
+Copyright (c) 2021 European Centre for Medium-Range Weather Forecasts (ECMWF).
+
+
+--------------------
+# Observation data #
+--------------------
+
+Source: DWD Climate Data Center (CDC): Historische stündliche Stationsmessungen der Lufttemperatur und
+Luftfeuchte für Deutschland, Version v006, 2018, URL: https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/BESCHREIBUNG_obsgermany_climate_hourly_tu_historical_de.pdf 
+
+License: https://www.dwd.de/DE/service/copyright/copyright_node.html
+
