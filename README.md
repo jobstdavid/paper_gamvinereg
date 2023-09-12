@@ -17,7 +17,7 @@ The data needed for reproducing the results is publicly available:
 > <https://doi.org/10.5281/zenodo.8127734>
 
 For the data license see
-[here](https://github.com/jobstdavid/paper_gamvinereg/DATA_LICENSE).
+[here](https://github.com/jobstdavid/paper_gamvinereg/DATA_LICENSE.txt).
 
 ### ECMWF forecasts
 
