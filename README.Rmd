@@ -23,7 +23,7 @@ The data needed for reproducing the results is publicly available:
 
 > Jobst, David, Möller, Annette, & Groß, Jürgen. (2023). Data set for the ensemble postprocessing of 2m surface temperature forecasts in Germany for 24 hours lead time (0.1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.8127734
 
-For the data license see [here](https://github.com/jobstdavid/paper_gamvinereg/DATA_LICENSE.txt).
+For the data license see [here](https://github.com/jobstdavid/paper_gamvinereg/DATA_LICENSE).
 
 ### ECMWF forecasts
 
