@@ -21,15 +21,15 @@ For the data license see
 
 ### ECMWF forecasts
 
--   Source: [ECMWF](https://www.ecmwf.int) (European Centre for
-    Medium-Range Weather Forecasts)
--   Gridded forecasts: 50-member ensemble forecasts
--   Time range: 2015-01-02 to 2020-12-31
--   Forecast leadtime: 24 hours
--   Forecast initialization time: 12 UTC
--   Area: Germany
--   Resolution: 0.25 degrees
--   Meteorological variables
+- Source: [ECMWF](https://www.ecmwf.int) (European Centre for
+  Medium-Range Weather Forecasts)
+- Gridded forecasts: 50-member ensemble forecasts
+- Time range: 2015-01-02 to 2020-12-31
+- Forecast leadtime: 24 hours
+- Forecast initialization time: 12 UTC
+- Area: Germany
+- Resolution: 0.25 degrees
+- Meteorological variables
 
 | Variable | Description                                                                                         |
 |----------|-----------------------------------------------------------------------------------------------------|
@@ -46,16 +46,16 @@ For the data license see
 
 ### DWD observations
 
--   Source: [DWD Climate Data
-    Center](https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/BESCHREIBUNG_obsgermany_climate_hourly_tu_historical_de.pdf)
-    ([German Weather Service](https://www.dwd.de))
--   Observation data: Hourly observations of the target variable (2m
-    surface temperature)
--   Number of stations: 462
--   ECMWF forecasts: Bilinearly interpolated to the SYNOP stations and
-    reduced to its mean (variable\_mean) and standard deviation
-    (variable\_sd)
--   Metadata
+- Source: [DWD Climate Data
+  Center](https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/air_temperature/historical/BESCHREIBUNG_obsgermany_climate_hourly_tu_historical_de.pdf)
+  ([German Weather Service](https://www.dwd.de))
+- Observation data: Hourly observations of the target variable (2m
+  surface temperature)
+- Number of stations: 462
+- ECMWF forecasts: Bilinearly interpolated to the SYNOP stations and
+  reduced to its mean (variable_mean) and standard deviation
+  (variable_sd)
+- Metadata
 
 | Variable | Description                           |
 |----------|---------------------------------------|
@@ -80,18 +80,18 @@ the whole year 2020.
 
 ### R-packages for the ensemble postprocessing models
 
--   [crch](https://cran.r-project.org/web/packages/crch/index.html):
-    Local Ensemble Model Output Statistics (EMOS) and its
-    gradient-boosted extension (EMOS-GB)
--   [vinereg](https://cran.r-project.org/web/packages/vinereg/index.html):
-    Local D-vine copula based quantile regression (DVQR)
--   [gamvinereg](https://github.com/jobstdavid/gamvinereg): Local D-vine
-    GAM copula based quantile regression (GAM-DVQR)
+- [crch](https://cran.r-project.org/web/packages/crch/index.html): Local
+  Ensemble Model Output Statistics (EMOS) and its gradient-boosted
+  extension (EMOS-GB)
+- [vinereg](https://cran.r-project.org/web/packages/vinereg/index.html):
+  Local D-vine copula based quantile regression (DVQR)
+- [gamvinereg](https://github.com/jobstdavid/gamvinereg): Local D-vine
+  GAM copula based quantile regression (GAM-DVQR)
 
 ### Additional R-packages
 
--   [eppverification](https://github.com/jobstdavid/eppverification):
-    For the verification of the ensemble postprocessing models
+- [eppverification](https://github.com/jobstdavid/eppverification): For
+  the verification of the ensemble postprocessing models
 
 ## Implementation details
 
