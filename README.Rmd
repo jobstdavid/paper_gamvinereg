@@ -80,17 +80,3 @@ All models except of the D-vine copula quantile regression (DVQR) are estimated 
 
 ### Additional R-packages
 - [eppverification](https://github.com/jobstdavid/eppverification): For the verification of the ensemble postprocessing models
-
-
-## Implementation details
-
-### Hyperparameter specifications
-
-<img src="figures/tab1.jpg" width="370">
-
-### Marginal distributions for GAM-DVQR
-
-<img src="figures/tab2.jpg" width="500">
-
-> Smithson, M. and Verkuilen, J. (2006). A better lemon squeezer? Maximum-likelihood regression with beta-distributed dependent variables. In: *Psychological Methods* 11.1, pp. 54–71. doi: [10.1037/1082-989x.11.1.54](http://doi.org/10.1037/1082-989x.11.1.54).
-
